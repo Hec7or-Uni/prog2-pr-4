@@ -1,13 +1,3 @@
-#***************************************************************************
-# File:   Makefile
-# Author: Programación II. Universidad de Zaragoza
-# Date:   March 27, 2019
-# Coms:   Ejemplo de Makefile
-#         Ejecutar 'make' para compilar (o 'make -f Makefile')
-#         Ejecutar 'make' clean para limpiar (borrar lo que genere)
-#***************************************************************************
-
-#---------------------------------------------------------
 # macros
 RM = /bin/rm -f  # para limpiar
 CC = g++         # para compilar
