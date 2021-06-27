@@ -1,8 +1,8 @@
-#include <iostream>
-#include <stdbool.h> // asegurar los booleanos
-#include <time.h>
-#include <fstream>
-#include "laberinto.hpp"
+# include <iostream>
+# include <stdbool.h> // asegurar los booleanos
+# include <time.h>
+# include <fstream>
+# include "laberinto.hpp"
 
 using namespace std;
 
@@ -82,5 +82,3 @@ int main(int numArg, char* args[]) {
     }
     return 0;
 }
-
-//Desktop/798095~Unizar/1.2.3~Prog2/Practicas/Practica4
