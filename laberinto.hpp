@@ -1,12 +1,5 @@
-//*****************************************************************
-// File:   laberinto.hpp
-// Author: Programación II. Unviersidad de Zaragoza
-// Date:   March 27, 2019
-// Coms:   Definición del tipo "Laberinto" para la
-//*****************************************************************
-
-#include <fstream>
-#include <iostream>
+# include <fstream>
+# include <iostream>
 using namespace std;
 
 // Dimensión máxima de los laberintos
