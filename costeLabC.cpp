@@ -1,13 +1,7 @@
-//*****************************************************************
-// File:   costeLab.cpp
-// Author: Carlos Paesa
-// Date:   March 27, 2019
-// Coms:   Definición del tipo "Laberinto" para la
-//*****************************************************************
-#include <fstream>
-#include <iostream>
-#include <time.h>
-#include "laberinto.hpp"
+# include <fstream>
+# include <iostream>
+# include <time.h>
+# include "laberinto.hpp"
 using namespace std;
 
 // Dimensión de los laberintos
