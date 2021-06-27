@@ -1,16 +1,9 @@
-//***************************************************************************
-// File:   laberinto.cpp
-// Author: Programación II. Universidad de Zaragoza
-// Date:   March 27, 2019
-// Coms:   Implementación del tipo "Laberinto" para la práctica 3 de la asignatura
-//***************************************************************************
-
-#include <iostream>
-#include <unistd.h> // para "usleep"
-#include <fstream>  // para "ficheros"
-#include <stdlib.h> // para "rand"
-#include <time.h>
-#include "laberinto.hpp"
+# include <iostream>
+# include <unistd.h> // para "usleep"
+# include <fstream>  // para "ficheros"
+# include <stdlib.h> // para "rand"
+# include <time.h>
+# include "laberinto.hpp"
 
 //*************************************************************************
 // Encontrar un camino en el laberinto
